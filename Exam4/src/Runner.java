@@ -18,13 +18,13 @@ public class Runner {
 		tents.add(new Tent(1, 2.5, 2.5, 20.8));
 		tents.add(new Tent(5, 5.3, 5, 12));
 		tents.add(new Tent(13, 1, 17, 5));
-		tents.add(new Tent(1, 17.2, 2.5, 2.5));
+		tents.add(new Tent(1, 17.2, 2.5, 5.6));
 		tents.add(new Tent(11, 2.5, 2.5, 2.5));
-		tents.add(new Tent(20, 2.5, 2.5, 2.5));
-		tents.add(new Tent(4, 2.5, 2.5, 2.5));
-		tents.add(new Tent(7, 2.5, 2.5, 2.5));
-		tents.add(new Tent(30, 2.5, 2.5, 2.5));
-		tents.add(new Tent(22, 2.5, 2.5, 2.5));
+		tents.add(new Tent(20, 2.5, 45, 12));
+		tents.add(new Tent(4, 2.5, 2.5, 48));
+		tents.add(new Tent(7, 2.5, 120, 4));
+		tents.add(new Tent(30, 2.5, 2.5, 56));
+		tents.add(new Tent(22, 2.5, 2.5, 3));
 
 		
 		List<Tent> tents1;
